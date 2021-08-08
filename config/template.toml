@@ -1,0 +1,11 @@
+[discord]
+token = ""
+guildId = ""
+
+[twitch]
+clientId = ""
+clientSecret = ""
+broadcasterName = ""
+
+[pastebin]
+api = ""
